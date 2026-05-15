@@ -46,6 +46,14 @@
   <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,redis,docker,linux,git,githubactions&theme=dark" />
 </p>
 
+### 🤖 AI-Powered Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor-6C47FF?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-10B981?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
 ---
 
 ## 🧬 Motto
